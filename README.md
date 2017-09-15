@@ -26,4 +26,6 @@ This is a test repository.
   
   
 チェック終了．
+
+追記
   
